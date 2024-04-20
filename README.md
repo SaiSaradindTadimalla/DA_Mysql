@@ -24,3 +24,6 @@ Automate the analysis process with scheduled scripts for real-time insights.
 Integrate visualization tools like Power BI or Tableau for enhanced data presentation.
 Contributing:
 Contributions and feedback are welcome! Feel free to fork the repository and submit pull requests with any enhancements or improvements.
+
+
+Note: Couldn't process the datasets of 3rd and 2nd KPIs due to some issues!
